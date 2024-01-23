@@ -1,1 +1,2 @@
 # SQL-Data-Cleaning
+In my SQL data cleaning project, I enhanced the Nashville housing dataset for in-depth analysis using intermediate to advanced SQL queries. This involved addressing missing values and updated through self-joins, segmenting the address column for efficient querying with substring and parsename functions, eliminating duplicate records, and refining datetime column datatypes to date type. The resulting dataset is now optimized and ready for insightful exploration.
